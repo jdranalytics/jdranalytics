@@ -72,7 +72,7 @@ Parte de mi trabajo puede verse en mi repositorio público principal y en mi por
 | **Herramientas BI**          | Power BI, Tableau, Looker Studio          |
 | **Herramientas de Análisis** | Minitab, Statgraphics                     |
 | **Editores de Código**       | Visual Studio Code, Trae                  |
-| **Simulación de Procesos Químicos** | Aspen Plus, Pro/II, DWSIM, Chemcad |
+
 
 ## 📬 Contacto
 - [Correo](mailto:ing.jd.rojas@gmail.com)  
