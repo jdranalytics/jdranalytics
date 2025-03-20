@@ -67,7 +67,7 @@ Parte de mi trabajo puede verse en mi repositorio público principal y en mi por
 | Categoría                    | Herramientas                              |
 |------------------------------|-------------------------------------------|
 | **Lenguajes**                | Python, R, DAX, SQL                       |
-| **Productividad**            | Excel (VBA), PowerApps, Power Automate    |
+| **Productividad**            | Excel, Visual Basic Applications (VBA), PowerApps, Power Automate    |
 | **Bases de Datos**           | Access, SQL Server, MySQL, SQLite, PostgreSQL |
 | **Herramientas BI**          | Power BI, Tableau, Looker Studio          |
 | **Herramientas de Análisis** | Minitab, Statgraphics                     |
