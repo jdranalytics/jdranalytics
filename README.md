@@ -1,4 +1,4 @@
-# ¡Bienvenidos a mi zona! 👨‍💻📈💡
+# ¡Bienvenidos a mi zona! 👨‍💻📈💡😸
 
 ![Banner Principal](https://drive.google.com/uc?export=view&id=1eD9OOm25oMfC3Wd4g0Y6JQ6zVygGvkeL)  
 
