@@ -77,7 +77,7 @@ Parte de mi trabajo puede verse en mi repositorio público principal y en mi por
 ## 📬 Contacto
 - [Correo](mailto:ing.jd.rojas@gmail.com)  
 
-## 🎉 Fun Fact
+## ☝🏻😌 Facts
 "No hay código que no venga acompañado de un buen café... ☕"
 
 ![Cafecito](https://media.giphy.com/media/lSVL6vdhdZVPW/giphy.gif)  
