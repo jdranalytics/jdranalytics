@@ -70,8 +70,6 @@ Parte de mi trabajo puede verse en mi repositorio público principal y en mi por
 | **Productividad**            | Excel, Visual Basic Applications (VBA), PowerApps, Power Automate, Airflow    |
 | **Bases de Datos**           | Access, SQL Server, MySQL, SQLite, PostgreSQL |
 | **Herramientas BI**          | Power BI, Tableau, Looker Studio          |
-| **Herramientas de Análisis** | Minitab, Statgraphics                     |
-| **Editores de Código**       | Visual Studio Code, Trae                  |
 
 
 ## 📬 Contacto
