@@ -66,7 +66,7 @@ Parte de mi trabajo puede verse en mi repositorio público principal y en mi por
 ## ⚙️ Lenguajes y herramientas
 | Categoría                    | Herramientas                              |
 |------------------------------|-------------------------------------------|
-| **Lenguajes**                | Python, R, DAX, SQL                       |
+| **Lenguajes**                | Python, R, DAX, M, SQL                       |
 | **Productividad**            | Excel, Visual Basic Applications (VBA), PowerApps, Power Automate, Airflow    |
 | **Bases de Datos**           | Access,  MySQL, SQL Server |
 | **Herramientas BI**          | Power BI, Tableau, Looker Studio          |
