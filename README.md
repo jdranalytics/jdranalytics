@@ -2,7 +2,7 @@
 
 ![Banner Principal](https://drive.google.com/uc?export=view&id=1eD9OOm25oMfC3Wd4g0Y6JQ6zVygGvkeL)  
 
-Hola, mi nombre es **José Daniel Rojas**, soy un ingeniero químico apasionado de la **analítica y ciencia de datos**. Este es mi rincón en GitHub, donde experimento, aprendo y comparto proyectos que generan valor a través de la intersección entre ciencia y tecnología.  
+Hola, mi nombre es **José Daniel Rojas**, soy un ingeniero químico apasionado de la **analítica y ciencia de datos**. Este es mi rincón en GitHub, donde experimento, aprendo y comparto proyectos llevados a cabo con el fin de generar valor.
 
 Durante años, trabajé en **laboratorios de ensayo, metrología química e ingeniería de procesos** en la industria petrolera y petroquímica, optimizando modelos para las diferentes áreas de una planta de polietilenos. Pero mi enfoque evolucionó: pasé de modelar reacciones químicas y procesos físicos a aplicar mis habilidades en nuevos horizontes. Hoy, me dedico a transformar datos en soluciones, desde la optimización de **procesos administrativos** en diversas industrias hasta el análisis de **CSAT scores** en el sector BPO, identificando *pain points* clave para mejorar la satisfacción del cliente y los resultados operativos.
 
