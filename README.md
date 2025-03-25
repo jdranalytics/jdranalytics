@@ -68,7 +68,7 @@ Parte de mi trabajo puede verse en mi repositorio público principal y en mi por
 |------------------------------|-------------------------------------------|
 | **Lenguajes**                | Python, R, DAX, SQL                       |
 | **Productividad**            | Excel, Visual Basic Applications (VBA), PowerApps, Power Automate, Airflow    |
-| **Bases de Datos**           | Access, SQL Server, MySQL, SQLite, PostgreSQL |
+| **Bases de Datos**           | Access,  MySQL, SQL Server |
 | **Herramientas BI**          | Power BI, Tableau, Looker Studio          |
 
 
