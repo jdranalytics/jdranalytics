@@ -52,7 +52,7 @@ Parte de mi trabajo puede verse en mi repositorio público principal y en mi por
       <a href="https://youtu.be/-2JqTp_lcnU">
         <img src="https://img.youtube.com/vi/-2JqTp_lcnU/0.jpg" alt="Video 5" width="250"/>
       </a>
-      <br>Flujo Airflow - BigQuery
+      <br>Flujo ETL Airflow + BigQuery (Análisis de Riesgo)
     </td>
     <td align="center">
       <a href="https://youtu.be/F13BJ3i9ilA">
