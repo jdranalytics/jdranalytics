@@ -38,7 +38,7 @@ Parte de mi trabajo puede verse en mi repositorio público principal y en mi por
       <a href="https://youtu.be/BLnl0NhVNxM">
         <img src="https://img.youtube.com/vi/BLnl0NhVNxM/0.jpg" alt="Video 3" width="250"/>
       </a>
-      <br>Apetitoso Restaurant (Power Apps)
+      <br>Apetitoso Restaurant (Power Apps + Automate)
     </td>
   </tr>
   <tr>
