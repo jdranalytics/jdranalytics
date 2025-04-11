@@ -1,6 +1,6 @@
 # ¡Bienvenidos a mi guarida! 👨‍💻📈💡
 
-![Banner Principal](https://drive.google.com/file/d/1i7fOlNYDgtWgLf8Vm_Sf2x4_AjEcvRp0/view?usp=drivesdk)  
+![Banner Principal](https://drive.google.com/uc?export=view&id=1kNQeCN6-7hBNPYTQMi_x7DY5s6qMBkyi)
 
 Hola, mi nombre es **José Daniel Rojas**, soy un ingeniero químico apasionado de la **analítica, ciencia de datos y sobre todo dar soluciones que generen valor**. Este es mi rincón en GitHub, donde experimento, aprendo y comparto proyectos llevados a cabo con el fin de crear soluciones que generen valor.
 
