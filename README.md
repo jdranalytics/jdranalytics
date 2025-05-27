@@ -117,7 +117,7 @@ Parte de mi trabajo puede verse en mi repositorio público principal y en mi por
       <a href="https://youtu.be/9gq6r8f0UNg">
         <img src="https://img.youtube.com/vi/9gq6r8f0UNg/0.jpg" alt="Video 15" width="250"/>
       </a>
-      <br><div style="word-wrap: break-word; max-width: 100%; text-align: center;">Análisis de Sentimiento</div>
+      <br><div style="word-wrap: break-word; max-width: 100%; text-align: center;">Análisis de Sentimiento de Encuestas de Empleados</div>
     </td>
   </tr>
 </table>
