@@ -127,7 +127,7 @@ Parte de mi trabajo puede verse en mi repositorio público principal y en mi por
 |------------------------------|-------------------------------------------|
 | **Lenguajes**                | Python, R, DAX, M, SQL                       |
 | **Productividad**            | Excel, Visual Basic Applications (VBA), PowerApps, Power Automate, Apache Airflow, AI Generativa    |
-| **Bases de Datos y Nubes**   | Access, SQL Server, MySQL, Google Cloud, BigQuery, MS Fabric |
+| **Bases de Datos y Nubes**   | Access, SQL Server, MySQL, Google Cloud, BigQuery, MS Fabric, Snowflake |
 | **Herramientas BI**          | Power BI, Tableau, Looker Studio, Shiny, Streamlit        |
 
 
