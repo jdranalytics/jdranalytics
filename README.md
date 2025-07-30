@@ -58,4 +58,4 @@ Some of my work can be seen in my main public repository and video portfolio:
 
 ---
 
-⭐️ ¡Echa un vistazo a mi repo y déjame una estrella si mi trabajo es de tu agrado! | ⭐️ Take a look at my repo and leave a star if you like my work!
+⭐️ ¡Echa un vistazo a mi repo y déjame una estrella si mi trabajo es de tu agrado! | Take a look at my repo and leave a star if you like my work!
