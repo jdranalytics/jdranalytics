@@ -1,0 +1,19 @@
+id,title,shortId
+F6nQHX9olDo,"ContactApp 1.0.0 (R-Shiny)",C1
+sBOK6WT38JU,"My.RCManager v.2.0 (Excel-Access-VBA)",R1
+BLnl0NhVNxM,"Apetitoso Restaurant (Power Apps+Automate)",A1
+QmfAVkEeaIM,"Automated Offer Module (Excel-VBA)",O1
+F13BJ3i9ilA,"C5Manager v.1.0 (Excel+Access-VBA)",C5
+-2JqTp_lcnU,"Airflow+BigQuery+ML (Risk Analysis)",AB1
+M9p6LTcJkOs,"Excel-VBA | Power BI | Looker | Tableau",V1
+eBS8BfjXEGM,"MySQL Ingestion Process (AIRFLOW)",M1
+1c89jF3w34I,"Risk Analysis (Shiny App+AI Assistant)",RA1
+fZLZ_h8GHq8,"AI Assistant for Risk Analysis (Python+Streamlit)",AI1
+NSE45GBUpMA,"Machine Learning in MS Fabric (Risk Analysis)",ML1
+XQCd9OFM0-E,"RiskApp (Power Apps+Automate+Fabric)",R2
+uMMLRSNm-CI,"Employee Turnover Prediction",ET1
+lSItMMBnrYU,"Overtime Hours Forecast",OH1
+9gq6r8f0UNg,"Employee Survey Sentiment Analysis",ES1
+iQ_a5aLrg8Q,"Multi-Scenario Forecast with Snowflake ML",SF1
+rLLFMvlWqzE,"Clustering in Snowflake with Notebook",CS1
+Ucr4E4u9S_g,"Multi-Scenario Forecast with KNIME",K1
