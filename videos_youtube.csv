@@ -1,4 +1,4 @@
-id,title,shortId,duration,duration_seg, topic
+id,title,shortId,duration,duration_seg,topic
 F6nQHX9olDo,"ContactApp 1.0.0 (R-Shiny)",C1,05:30,330,"Call Center Analytics"
 sBOK6WT38JU,"My.RCManager v.2.0 (Excel-Access-VBA)",R1,06:53,413,"Tool Development"
 BLnl0NhVNxM,"Apetitoso Restaurant (Power Apps+Automate)",A1,03:05,185,"Tool Development"
@@ -14,6 +14,9 @@ XQCd9OFM0-E,"RiskApp (Power Apps+Automate+Fabric)",R2,00:58,58,"Credit Risk Anal
 uMMLRSNm-CI,"Employee Turnover Prediction",ET1,02:13,133,"People Analytics"
 lSItMMBnrYU,"Overtime Hours Forecast",OH1,02:06,126,"People Analytics"
 9gq6r8f0UNg,"Employee Survey Sentiment Analysis",ES1,02:16,136,"People Analytics"
-iQ_a5aLrg8Q,"Multi-Scenario Forecast with Snowflake ML",SF1,02:35,155, "Sales Analytics"
+iQ_a5aLrg8Q,"Multi-Scenario Forecast with Snowflake ML",SF1,02:35,155,"Sales Analytics"
 rLLFMvlWqzE,"Clustering in Snowflake with Notebook",CS1,02:32,152,"Sales Analytics"
 Ucr4E4u9S_g,"Multi-Scenario Forecast with KNIME",K1,02:07,127,"Sales Analytics"
+Sy61Wa_dGUM,"Gestor de Residuos - EcoTracker v.1.0.0 (R-Shiny/PBI)",GR1,02:45,165,"Waste Management"
+QD2VEN9WNx4,"Empacado de Shiny App con Electron",SE1,03:05,185,"Waste Management"
+_q6AVipJU6Y,"Forecasting de Horas Extras con MLP (KNIME)",FH1,02:43,163,"People Analytics"
